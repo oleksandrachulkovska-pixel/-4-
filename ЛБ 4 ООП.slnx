@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ЛБ 4 ООП/ЛБ 4 ООП.vcxproj" />
+</Solution>
